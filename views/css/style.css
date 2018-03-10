@@ -1,0 +1,22 @@
+.welcome_screen a
+{
+    text-decoration: none;
+    color:yellowgreen;
+    font-size: 20px;
+}
+.welcome_screen a:hover
+{
+    text-decoration: underline;
+}
+.searchfor
+{
+    height:30px;
+    width:250px;
+}
+.searchbtn
+{
+    height:35px;
+    background-color: yellowgreen;
+    color:yellow;
+}
+

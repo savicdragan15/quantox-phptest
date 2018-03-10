@@ -1,0 +1,5 @@
+INSTALLATION INSTRUCTIONS
+
+- unpack zip file into www folder on your server
+- import quantox_test.sql file in MySQL database server
+- go to folder models, open file baseModel.php and change PDO connection string according to your needs
